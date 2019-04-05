@@ -1,0 +1,120 @@
+.logo-uninter img {
+    width: 104px;
+    height: 84px;
+}
+
+.curso-logistica {
+     background-image: url("./img/logistica-internacional.jpeg");
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     height: 300px;
+}
+
+.titulo-curso {
+    margin-left: 0;
+    padding-top: 47px;
+}
+
+.titulo-curso h3 {
+    font-family: "Futura Md BT";
+    color: #6383A9;
+}
+
+.titulo-curso h2 {
+    font-family: "Futura Md BT";
+    color: #DFDFDF;
+}
+
+.bemvindo p{
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.ultimo-acesso {
+    font-size: 0.8rem;
+}
+
+.ultimo-acesso a {
+    float: right;
+}
+
+.conteudo-curso {
+    padding-bottom: 125px;
+}
+
+.conteudo-curso h2 {
+    font-family: "Futura Md BT";
+    color: #396B9E;
+}
+
+.conteudo-central img {
+    height: 96%;
+    width: 107%;
+}
+
+.conteudo-direita {
+    cursor: pointer;
+}
+
+.conteudo-direita p {
+    text-align: center;
+}
+
+.conteudo-direita img[video] {
+    height: 73%;
+    width: 72%;
+    position: relative;
+    float: right;
+}
+
+.conteudo-direita img[play] {
+    position: absolute;
+    left: 93px;
+    top: 48px;
+    width: 20%;
+    z-index: 1;
+}
+
+.footer {
+    background-color: #A6ADB4;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer img {
+    width: 74px;
+    height: 55px;
+    margin-top: 13px;
+}
+
+.footer ul {
+    list-style-type: none;
+}
+
+.footer ul a {
+    color: #CBD0D3;
+}
+
+.footer .input-group {
+    margin-top: 14px;
+}
+
+.social-media {
+    margin-top: 23px;
+}
+
+.social-media a {
+    margin-top: 23px;
+    color: #CBD0D3;
+}
+
+.bs-example{
+    margin: 20px;
+}
+.modal-content iframe{
+    margin: 0 auto;
+    display: block;
+    height: 278px;
+    width: 447px;
+}
